@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Tamrej Aalam
 
-Welcome to my GitHub corner! I'm a passionate developer who loves turning ideas into reality through code. Here’s a sneak peek into what I do and what excites me.
+Welcome to my GitHub corner! I'm a Software Engineer who loves turning ideas into reality through code. Here’s a sneak peek into what I do and what excites me.
 
 ## 🚀 About Me
 - 🌱 Currently diving deep into web development and exploring new technologies.
@@ -8,17 +8,21 @@ Welcome to my GitHub corner! I'm a passionate developer who loves turning ideas 
 - 💡 Always learning something new, whether a new programming language or a cool framework.
 
 ## 🔧 Technologies & Tools
-- **programming Languages:** HTML5, CSS, SASS, JavaScript, jQuery
-- **Framework:** Next.js, Tailwind CSS
-- **Library:** React, Redux, Bootstrap, Material UI, NextUI
-- **Tools & Hosting Platform:** Git, Netlify, jira, Figma, photoshop, VS Code
-- **CMS:** WordPress
+- **programming Languages:** HTML5, CSS, TypeScript, JavaScript (ES6+)
+- **Framework:** Next.js, Gatsby, Tailwind CSS, Bootstrap
+- **Library:** React.js, Redux, jQuery, Material UI, GSAP
+- **AI and Automation:** ChatGPT, GitHub Copilot, Claude, Tabnine, Cursor IDE, Jest, React Testing Library
+- **Performance Optimization:** Webpack, Babel, Lighthouse Audits, Lazy Loading, SSR, Web Vitals
+- **Tools & Analytics:** Google Analytics, Hubspot Analytics, Netlify, jira, Mixpanel, Postman, Git, GitHub, Vite, NPM, Yarn
+- **DevOps/CI/CD/Cloud:** GitHub Actions, AWS Amplify, AWS services
+- **Data Visualization:** MUI-X Charts, Recharts 
+- **Other:** Wordpress, Elementor, REST APIs, Agile/Scrum, Figma, Photoshop, Web-sockets, SEO Optimization, Responsive Design
 
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajalvermaa&layout=compact&theme=radical)
 
 ## 💬 Let's Connect
-- **LinkedIn**: [Kajal Vermaa](https://www.linkedin.com/in/kajal-verma-2478b9218/)
-- **Email**: [kajalsony91@gmail.com](mailto:kajalsony91@gmail.com)
+- **LinkedIn**: [Tamrej Aalam](https://www.linkedin.com/in/tamrej-alam-india/)
+- **Email**: [taalam00795@gmail.com](mailto:taalam00795@gmail.com)
 
 Thanks for stopping by! Feel free to let me know if you'd like to collaborate on something cool.
