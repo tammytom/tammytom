@@ -19,7 +19,7 @@ Welcome to my GitHub corner! I'm a Software Engineer who loves turning ideas int
 - **Other:** Wordpress, Elementor, REST APIs, Agile/Scrum, Figma, Photoshop, Web-sockets, SEO Optimization, Responsive Design
 
 ## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajalvermaa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tammytom&layout=compact&theme=radical)
 
 ## 💬 Let's Connect
 - **LinkedIn**: [Tamrej Aalam](https://www.linkedin.com/in/tamrej-alam-india/)
