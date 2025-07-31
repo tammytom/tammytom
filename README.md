@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Kajal Verma
+# Hey there! 👋 I'm Tamrej Aalam
 
 Welcome to my GitHub corner! I'm a passionate developer who loves turning ideas into reality through code. Here’s a sneak peek into what I do and what excites me.
 
