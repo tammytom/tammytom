@@ -10,7 +10,7 @@ Welcome to my GitHub corner! I'm a Software Engineer who loves turning ideas int
 ## 🔧 Technologies & Tools
 - **programming Languages:** HTML5, CSS, TypeScript, JavaScript (ES6+)
 - **Framework:** Next.js, Gatsby, Tailwind CSS, Bootstrap
-- **Library:** React.js, Redux, jQuery, Material UI, GSAP
+- **Library:** React.js, Redux, jQuery, Material UI, GSAP, Styled Components
 - **AI and Automation:** ChatGPT, GitHub Copilot, Claude, Tabnine, Cursor IDE, Jest, React Testing Library
 - **Performance Optimization:** Webpack, Babel, Lighthouse Audits, Lazy Loading, SSR, Web Vitals
 - **Tools & Analytics:** Google Analytics, Hubspot Analytics, Netlify, jira, Mixpanel, Postman, Git, GitHub, Vite, NPM, Yarn
